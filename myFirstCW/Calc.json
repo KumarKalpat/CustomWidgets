@@ -3,31 +3,31 @@
     "description": "Simple Calculator Widget",
     "newInstancePrefix": "calculatorwidget",
     "eula": "",
-    "vendor": "Planifyit",
+    "vendor": "KumarTest",
     "license": "",
     "id": "calculatorwidget",
     "version": "1.0.1",
     "icon": "",
-    "vendor": "Planifyit",
+    "vendor": "KumarTest",
     "webcomponents": [
         {
             "kind": "main",
             "tag": "calculator-widget",
-            "url": "https://planifyit.github.io/SAC_Calculator/CalculatorWidget.js",
+            "url": "https://kumarkalpat.github.io/CustomWidgets/myFirstCW/CalculatorWidget.js",
             "integrity": "",
             "ignoreIntegrity": true
         },
         {
             "kind": "styling",
             "tag": "com-sap-sample-calculator-styling",
-            "url": "https://planifyit.github.io/SAC_Calculator/style-panel.js",
+            "url": "https://kumarkalpat.github.io/CustomWidgets/myFirstCW/style-panel.js",
             "integrity": "",
             "ignoreIntegrity": true
         },
         {
             "kind": "builder",
             "tag": "com-sap-sample-calculator-builder",
-            "url": "https://planifyit.github.io/SAC_Calculator/builder-panel.js",
+            "url": "https://kumarkalpat.github.io/CustomWidgets/myFirstCW/builder-panel.js",
             "integrity": "",
             "ignoreIntegrity": true
         }
